@@ -1,8 +1,7 @@
 body {
-    background: url("/images/bg.png") no-repeat;
+    background: url("/images/bg2.jpg") no-repeat;
     background-size: cover;
     color: #fff;
-    opacity: 40%;
     font-family: "Lato";
 }
 
@@ -27,4 +26,5 @@ body {
     box-shadow: 0px 7px 25px 3px #aaa;
     padding-top: 20px;
     padding-bottom: 200px;
+    opacity: 0.8;
 }
